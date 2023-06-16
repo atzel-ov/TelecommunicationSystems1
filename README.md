@@ -1,4 +1,4 @@
-# Telecommunication Systems 1 - TEL301
+# Telecommunication Systems I - TEL302
 
 Lab exercises for the course "Statistical Modeling and Pattern Recognition TEL 311"
 
